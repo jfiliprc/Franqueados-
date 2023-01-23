@@ -45,20 +45,61 @@ button {
     0 3px 1px -2px rgba(0, 0, 0, 0.12), 0 1px 5px 0 rgba(0, 0, 0, 0.2);
 }
 
-.button-four {
+.button-franqueado {
   background-color: #504ce4;
   color: white;
   border-radius: 30px;
+  
 }
 
 .navtxt{
   padding-top: 17px;
 }
 
+.blue-text{
+  color: #00a0e2;
+  font-family: 'Bowlby One'
+}
 
+.carousel-caption{
+  
+  top: 82px;
+  right: 1000px;
+  left: 0px;
+  bottom: 620px;
 
+}
 
+.carousel-inner{
+  height: 650px;
+}
 
+.bg-azul{
+  width: 1583px;
+  height: 400px;
+}
+
+#slides{
+  height: 70%;
+}
+
+.background-image {
+  background-image: url('img/background azul.jpg');
+  
+  width: 1600px;
+  height: 320px;
+
+}
+
+.info-text{
+  font-size: large;
+  text-align: center;
+  
+  padding-top: 5%;
+  padding-right: 10%;
+  padding-left: 10%;
+
+}
 
 
 
